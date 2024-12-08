@@ -1,0 +1,10 @@
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.csproj.AssemblyReference.cache
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.Properties.Resources.resources
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.csproj.GenerateResource.cache
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.csproj.CoreCompileInputs.cache
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\bin\Debug\Proyecto_Programacios_lV_Grupo6.exe.config
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\bin\Debug\Proyecto_Programacios_lV_Grupo6.exe
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\bin\Debug\Proyecto_Programacios_lV_Grupo6.pdb
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.Ventana_Principal.resources
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.exe
+C:\Users\CPALA_okofwtt\OneDrive\Escritorio\Proyecto_Programacios_lV_Grupo6\obj\Debug\Proyecto_Programacios_lV_Grupo6.pdb
